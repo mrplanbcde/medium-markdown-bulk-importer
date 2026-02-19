@@ -1,6 +1,6 @@
-# Medium MD Queue Copier (Chrome Extension)
+# Medium Markdown Bulk Importer (Chrome Extension)
 
-Load multiple local `.md` files into a queue, select one article, copy the full Markdown, and paste manually into Medium.
+Load multiple local `.md` files into a queue, select one article, copy the full Markdown, and paste manually into Medium quickly.
 
 ## Install (Developer Mode)
 

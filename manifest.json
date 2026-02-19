@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Medium MD Queue Copier",
+  "name": "Medium Markdown Bulk Importer",
   "version": "2.0.1",
-  "description": "Load multiple Markdown files, select one, and copy full content for manual paste into Medium.",
+  "description": "Load multiple Markdown files, select one, and copy full content for quick manual paste into Medium.",
   "permissions": ["clipboardWrite", "storage"],
   "icons": {
     "16": "icons/icon16.png",
@@ -17,7 +17,7 @@
       "48": "icons/icon48.png",
       "128": "icons/icon128.png"
     },
-    "default_title": "Medium MD Queue",
+    "default_title": "Medium Markdown Bulk Importer",
     "default_popup": "popup.html"
   }
 }
