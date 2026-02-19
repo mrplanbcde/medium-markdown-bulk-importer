@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Medium Markdown Bulk Importer",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Load multiple Markdown files, select one, and copy full content for quick manual paste into Medium.",
   "permissions": ["clipboardWrite", "storage"],
   "icons": {
