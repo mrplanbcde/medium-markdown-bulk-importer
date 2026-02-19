@@ -4,11 +4,12 @@ Load multiple local `.md` files into a queue, select one article, copy the full 
 
 ## Install (Developer Mode)
 
-1. Open Chrome and go to `chrome://extensions`.
-2. Enable **Developer mode**.
-3. Click **Load unpacked**.
-4. Select:
-   - `/Users/dali/Documents/New project/medium-md-import-extension`
+1. Download the extension ZIP from this repository Releases page.
+2. Extract the ZIP to a local folder.
+3. Open Chrome and go to `chrome://extensions`.
+4. Enable **Developer mode**.
+5. Click **Load unpacked**.
+6. Select the extracted extension folder.
 
 ## Use
 
